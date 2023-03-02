@@ -1,0 +1,29 @@
+.ProductImg{
+    width: 28vh;
+}
+
+.ButtomDetail{
+    border: none;
+    background: #003cffa1;
+    color: #fff;
+    margin-bottom: 3vh;
+    padding: 1vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
+
+.PriceArs{
+    font-weight: 700;
+}
+.PriceItemDetail{
+    color: black;
+    font-weight: 700;
+}
+
+.ButtomDetail:hover{
+    background-color: #003cffd5;
+}
+
+.Description{
+    margin: 2vh 3vh;
+}

@@ -1,0 +1,21 @@
+.Card{
+    margin-bottom: 5vh;
+    margin-left: 2vh;
+}
+
+.PriceItem{
+    font-weight: 700;
+}
+
+.DetailButtom{
+    background-color: #000000;
+    color: #fff;
+    padding-left: 1vh;
+    padding-right: 1vh;
+    padding-top: .5vh;
+    padding-bottom: .5vh;
+    list-style: none;
+    text-decoration: none;
+    border-radius: 2vh;
+}
+

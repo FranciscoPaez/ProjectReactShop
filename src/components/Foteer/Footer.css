@@ -1,0 +1,31 @@
+.Footer{
+    background: #000;
+}
+
+.TitleFooter{
+    color: #fff;
+    font-weight: 800;
+    padding-top: 2vh;
+}
+
+.OneLink{
+    color: #ffffff5b !important; 
+}
+
+.OneLink:hover{
+    color: #fff !important;
+}
+
+.CopyFooter{
+    color: #ffffff2a !important;
+}
+
+.TwoLink{
+    color: #ffffff5b !important;
+    margin-right: 5vh;
+    font-size: 1.25vh;
+}
+
+.TwoLink:hover{
+    color: #fff !important;
+}
